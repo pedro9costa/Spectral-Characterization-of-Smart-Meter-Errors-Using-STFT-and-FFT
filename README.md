@@ -39,7 +39,7 @@ This repository contains the implementation of a spectral analysis methodology f
    - Stability assessment of harmonic structures
 
 ## Results
-![Sample Spectrogram](images/spectrogram_example.png)  
+![Sample Spectrogram](images/STFT1.png)  
 *Typical output showing stable harmonic components at 22-24 hour periods*
 
 ## Contributors
