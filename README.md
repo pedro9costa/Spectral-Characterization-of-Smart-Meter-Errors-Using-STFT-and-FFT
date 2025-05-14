@@ -40,6 +40,8 @@ This repository contains the implementation of a spectral analysis methodology f
 
 ## Results
 ![Sample Spectrogram](images/STFT1.png)  
+![Sample Spectrogram](images/STFT2.png) 
+![Sample Spectrogram](images/STFT3.png) 
 *Typical output showing stable harmonic components at 22-24 hour periods*
 
 ## Contributors
