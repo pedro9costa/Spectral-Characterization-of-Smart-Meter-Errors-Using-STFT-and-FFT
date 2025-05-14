@@ -21,9 +21,6 @@ This repository contains the implementation of a spectral analysis methodology f
 - **Harmonic tracking** through integer multiples of f₀
 - **Time-localized frequency analysis** for anomaly detection
 - **Efficient implementation** using FFT algorithms
-
-## Installation
-
 ## Methodology
 1. **Signal Segmentation**: 50-hour windows with 25-hour overlap
 2. **Preprocessing Pipeline**:
@@ -59,13 +56,8 @@ This repository contains the implementation of a spectral analysis methodology f
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Citation
-If you use this work in your research, please cite:
-- **50-hour window STFT** with 25-hour step size
-- **Multi-stage preprocessing**: Mean subtraction, Hamming window, zero-padding (8×)
-- **Harmonic tracking** through integer multiples of f₀
-- **Time-localized frequency analysis** for anomaly detection
-- **Efficient implementation** using FFT algorithms
 
+A paper describing this code has been submitted and is currently under review. Citation details will be updated upon acceptance.
 
 
  
